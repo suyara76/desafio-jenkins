@@ -1,0 +1,30 @@
+2026.05.20 21:21:54 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins' for client Visual Studio Code 1.121.0.
+2026.05.20 21:21:54 INFO  Memory monitor started
+2026.05.20 21:21:56 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.20 21:21:56 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.20 21:22:03 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:03 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:03 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:04 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java
+2026.05.20 21:22:06 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:06 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:06 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:06 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:06 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:07 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java
+2026.05.20 21:22:09 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:09 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:09 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:10 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java
+2026.05.20 21:22:14 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:14 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:14 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:14 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:14 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.20 21:22:16 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java
+2026.05.20 21:22:17 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.20 21:22:17 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java
+2026.05.20 21:22:17 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.20 21:22:17 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.20 21:22:28 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.20 21:22:29 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
