@@ -13,6 +13,6 @@ public class ConversorTest {
     @Test
     public void testCelsiusParaFahrenheit() {
         Conversor conv = new Conversor();
-        assertEquals(99.0, conv.celsiusParaFahrenheit(0), 0.01);
+        assertEquals(32.0, conv.celsiusParaFahrenheit(0), 0.01);
     }
 }
