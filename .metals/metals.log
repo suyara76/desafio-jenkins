@@ -76,3 +76,34 @@ WARNING: Unmatched cancel notification for request id 3
 2026.05.25 16:59:36 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java
 2026.05.25 16:59:36 WARN  Running javac-semanticdb failed for file:///C:/Users/suyar/OneDrive/Documentos/gc/desafio-jenkins/src/main/java/com/exemplo/Conversor.java. Output:
 
+2026.05.25 16:59:59 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 17:00:04 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 17:03:22 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 17:03:22 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 17:03:22 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 17:03:23 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 17:03:23 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 17:03:23 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 17:03:23 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 17:03:24 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 17:03:25 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java
+2026.05.25 17:03:26 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 17:03:30 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:03:30 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:03:30 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:03:31 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:38 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:38 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:38 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:38 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:39 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:39 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:39 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:40 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:40 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:40 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:40 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:41 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:41 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
+2026.05.25 17:04:43 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java
+2026.05.25 17:04:45 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\test\java\com\exemplo\ConversorTest.java. Using fallback presentation compiler.
