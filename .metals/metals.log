@@ -48,3 +48,31 @@ org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequ
 2026.05.25 16:09:12 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins' for client Visual Studio Code 1.121.0.
 2026.05.25 16:09:12 INFO  Memory monitor started
 2026.05.25 16:09:17 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.25 16:54:47 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+mai. 25, 2026 4:54:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.05.25 16:54:49 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+mai. 25, 2026 4:54:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2026.05.25 16:54:49 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:54:56 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:54:56 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:54:56 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:54:57 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java
+2026.05.25 16:54:58 WARN  Running javac-semanticdb failed for file:///C:/Users/suyar/OneDrive/Documentos/gc/desafio-jenkins/src/main/java/com/exemplo/Conversor.java. Output:
+
+2026.05.25 16:54:58 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java
+2026.05.25 16:59:31 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:59:32 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:59:32 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:59:32 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:59:33 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java
+2026.05.25 16:59:32 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:59:33 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:59:33 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:59:35 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:59:35 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:59:35 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.25 16:59:36 WARN  no build target for: C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java
+2026.05.25 16:59:36 WARN  Running javac-semanticdb failed for file:///C:/Users/suyar/OneDrive/Documentos/gc/desafio-jenkins/src/main/java/com/exemplo/Conversor.java. Output:
+
