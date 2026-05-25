@@ -28,3 +28,23 @@
 2026.05.20 21:22:17 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
 2026.05.20 21:22:28 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
 2026.05.20 21:22:29 INFO  no build target found for C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins\src\main\java\com\exemplo\Conversor.java. Using fallback presentation compiler.
+2026.05.20 21:52:30 INFO  Shutting down server
+2026.05.20 21:52:30 INFO  Memory monitor stopped
+2026.05.20 21:52:30 INFO  shutting down Metals
+2026.05.20 21:52:30 INFO  Exiting server
+2026.05.20 21:52:30 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.lang.Thread.run(Thread.java:1447)
+
+2026.05.25 16:09:12 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\suyar\OneDrive\Documentos\gc\desafio-jenkins' for client Visual Studio Code 1.121.0.
+2026.05.25 16:09:12 INFO  Memory monitor started
+2026.05.25 16:09:17 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
